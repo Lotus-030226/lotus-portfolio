@@ -1,0 +1,904 @@
+{
+  "site": {
+    "displayName": "Lotus",
+    "roles": [
+      "AI Engineer",
+      "Full-Stack Developer"
+    ],
+    "intro": {
+      "en": "Turning AI, workflow automation, and full-stack engineering into practical products.",
+      "zh-TW": "將 AI、工作流自動化與全端開發，整合成真正可落地的產品。"
+    },
+    "services": [
+      {
+        "en": "Workflow Automation",
+        "zh-TW": "自動化工作流"
+      },
+      {
+        "en": "RAG Systems",
+        "zh-TW": "檢索增強生成"
+      },
+      {
+        "en": "Full-Stack Development",
+        "zh-TW": "全端開發"
+      }
+    ],
+    "description": "AI Engineer and Full-Stack Developer specializing in workflow automation, RAG systems, and practical AI-powered applications.",
+    "sceneUrl": null,
+    "modelUrl": "/assets/content/0fe71ed4-e76f-4d0a-a75f-8fe173b93126.glb",
+    "modelBindings": [
+      {
+        "node": "01 · python",
+        "press": "press_python",
+        "release": "release_python",
+        "technology": "python"
+      },
+      {
+        "node": "02 · pytorch",
+        "press": "press_pytorch",
+        "release": "release_pytorch",
+        "technology": "pytorch"
+      },
+      {
+        "node": "03 · tensorflow",
+        "press": "press_tensorflow",
+        "release": "release_tensorflow",
+        "technology": "tensorflow"
+      },
+      {
+        "node": "04 · javascript",
+        "press": "press_javascript",
+        "release": "release_javascript",
+        "technology": "javascript"
+      },
+      {
+        "node": "05 · html",
+        "press": "press_html",
+        "release": "release_html",
+        "technology": "html"
+      },
+      {
+        "node": "06 · css",
+        "press": "press_css",
+        "release": "release_css",
+        "technology": "css"
+      },
+      {
+        "node": "07 · typescript",
+        "press": "press_typescript",
+        "release": "release_typescript",
+        "technology": "typescript"
+      },
+      {
+        "node": "08 · node.js",
+        "press": "press_node_js",
+        "release": "release_node_js",
+        "technology": "node.js"
+      },
+      {
+        "node": "09 · next.js",
+        "press": "press_next_js",
+        "release": "release_next_js",
+        "technology": "next.js"
+      },
+      {
+        "node": "10 · tailwind",
+        "press": "press_tailwind",
+        "release": "release_tailwind",
+        "technology": "Tailwind CSS"
+      },
+      {
+        "node": "11 · react",
+        "press": "press_react",
+        "release": "release_react",
+        "technology": "react"
+      },
+      {
+        "node": "12 · vue",
+        "press": "press_vue",
+        "release": "release_vue",
+        "technology": "vue"
+      },
+      {
+        "node": "13 · postgresql",
+        "press": "press_postgresql",
+        "release": "release_postgresql",
+        "technology": "postgresql"
+      },
+      {
+        "node": "14 · supabase",
+        "press": "press_supabase",
+        "release": "release_supabase",
+        "technology": "supabase"
+      },
+      {
+        "node": "15 · git",
+        "press": "press_git",
+        "release": "release_git",
+        "technology": "git"
+      },
+      {
+        "node": "16 · github",
+        "press": "press_github",
+        "release": "release_github",
+        "technology": "github"
+      },
+      {
+        "node": "17 · nginx",
+        "press": "press_nginx",
+        "release": "release_nginx",
+        "technology": "nginx"
+      },
+      {
+        "node": "18 · wordpress",
+        "press": "press_wordpress",
+        "release": "release_wordpress",
+        "technology": "wordpress"
+      },
+      {
+        "node": "19 · linux",
+        "press": "press_linux",
+        "release": "release_linux",
+        "technology": "linux"
+      },
+      {
+        "node": "20 · docker",
+        "press": "press_docker",
+        "release": "release_docker",
+        "technology": "docker"
+      },
+      {
+        "node": "21 · aws",
+        "press": "press_aws",
+        "release": "release_aws",
+        "technology": "aws"
+      },
+      {
+        "node": "22 · azure",
+        "press": "press_azure",
+        "release": "release_azure",
+        "technology": "azure"
+      },
+      {
+        "node": "23 · n8n",
+        "press": "press_n8n",
+        "release": "release_n8n",
+        "technology": "n8n"
+      },
+      {
+        "node": "24 · dify",
+        "press": "press_dify",
+        "release": "release_dify",
+        "technology": "dify"
+      }
+    ],
+    "modelInteraction": "hover"
+  },
+  "tech": [
+    {
+      "id": "5f204988-1269-48f1-8d8e-ce4522630df8",
+      "name": "Python",
+      "category": "AI / ML",
+      "description": {
+        "en": "Tools for models, image analysis, and intelligent applications.",
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "b70d4df5-1cf9-4c2b-b776-10af950ce7ac",
+      "name": "PyTorch",
+      "category": "AI / ML",
+      "description": {
+        "en": "Tools for models, image analysis, and intelligent applications.",
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "d217cfb6-b9e1-4f36-a14a-a47341c87e51",
+      "name": "TensorFlow",
+      "category": "AI / ML",
+      "description": {
+        "en": "Tools for models, image analysis, and intelligent applications.",
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "f63672f2-60d6-4394-9d54-9a375bb2a9ce",
+      "name": "Deep Learning",
+      "category": "AI / ML",
+      "description": {
+        "en": "Tools for models, image analysis, and intelligent applications.",
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "d3c23ea9-b871-4c72-a70f-3d518063cbfa",
+      "name": "Computer Vision",
+      "category": "AI / ML",
+      "description": {
+        "en": "Tools for models, image analysis, and intelligent applications.",
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "96157a63-e15c-4f71-8a67-ae69cb98b277",
+      "name": "U-Net",
+      "category": "AI / ML",
+      "description": {
+        "en": "Tools for models, image analysis, and intelligent applications.",
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "72727baf-aa79-45c5-b64a-b5e0e3c3371d",
+      "name": "LLM",
+      "category": "AI / ML",
+      "description": {
+        "en": "Tools for models, image analysis, and intelligent applications.",
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "cfc396c4-3a30-4e00-8141-80ed551fe922",
+      "name": "RAG",
+      "category": "AI / ML",
+      "description": {
+        "en": "Tools for models, image analysis, and intelligent applications.",
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "045df8cf-08d4-4de7-bf9e-1bc61dc84990",
+      "name": "FAISS",
+      "category": "AI / ML",
+      "description": {
+        "en": "Tools for models, image analysis, and intelligent applications.",
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "064b035f-6c4e-44a8-b97b-e38bdb0eba84",
+      "name": "Prompt Engineering",
+      "category": "AI / ML",
+      "description": {
+        "en": "Tools for models, image analysis, and intelligent applications.",
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "3e87abd8-d006-47bd-a2de-170ce8f2c265",
+      "name": "Dify",
+      "category": "Workflow",
+      "description": {
+        "en": "Connecting models, services, and executable workflows.",
+        "zh-TW": "連接模型、服務與可執行工作流程。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "750755e8-79f3-4cd9-99c6-2e6334df4cfd",
+      "name": "n8n",
+      "category": "Workflow",
+      "description": {
+        "en": "Connecting models, services, and executable workflows.",
+        "zh-TW": "連接模型、服務與可執行工作流程。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "b0114ea2-d560-43db-b911-97576055f929",
+      "name": "API Integration",
+      "category": "Workflow",
+      "description": {
+        "en": "Connecting models, services, and executable workflows.",
+        "zh-TW": "連接模型、服務與可執行工作流程。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "f5198037-d6db-424a-8a8f-1a20cbd0ca83",
+      "name": "TypeScript",
+      "category": "Full Stack",
+      "description": {
+        "en": "Building interactive interfaces and application services.",
+        "zh-TW": "從互動介面到應用服務的開發技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "cea8dd93-980e-4886-8ac5-a4d957e07730",
+      "name": "JavaScript",
+      "category": "Full Stack",
+      "description": {
+        "en": "Building interactive interfaces and application services.",
+        "zh-TW": "從互動介面到應用服務的開發技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "d08e6b89-5cc5-49b2-928a-14851ca5bb3a",
+      "name": "React",
+      "category": "Full Stack",
+      "description": {
+        "en": "Building interactive interfaces and application services.",
+        "zh-TW": "從互動介面到應用服務的開發技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "fc7b4388-2b95-4c73-bc9e-23e7476ce500",
+      "name": "Next.js",
+      "category": "Full Stack",
+      "description": {
+        "en": "Building interactive interfaces and application services.",
+        "zh-TW": "從互動介面到應用服務的開發技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "3780a3d2-b9d4-4a1d-82f1-48ff5adae681",
+      "name": "Node.js",
+      "category": "Full Stack",
+      "description": {
+        "en": "Building interactive interfaces and application services.",
+        "zh-TW": "從互動介面到應用服務的開發技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "5d1b13d5-965a-4985-9f95-e0215a9e2e5f",
+      "name": "HTML",
+      "category": "Full Stack",
+      "description": {
+        "en": "Building interactive interfaces and application services.",
+        "zh-TW": "從互動介面到應用服務的開發技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "8039cbd5-b4d7-4e04-aea3-9438ed756d35",
+      "name": "CSS",
+      "category": "Full Stack",
+      "description": {
+        "en": "Building interactive interfaces and application services.",
+        "zh-TW": "從互動介面到應用服務的開發技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "6576bd8f-ded2-4b92-9453-2ff74e48251e",
+      "name": "Tailwind CSS",
+      "category": "Full Stack",
+      "description": {
+        "en": "Building interactive interfaces and application services.",
+        "zh-TW": "從互動介面到應用服務的開發技術。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "ba0b4b3c-17fa-46f0-81c3-b22f81f03026",
+      "name": "PostgreSQL",
+      "category": "Infrastructure",
+      "description": {
+        "en": "Supporting data storage, deployment, and development environments.",
+        "zh-TW": "支援資料保存、部署與開發環境。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "b1ddf04b-daa1-4b5d-a053-959c370a4887",
+      "name": "MySQL",
+      "category": "Infrastructure",
+      "description": {
+        "en": "Supporting data storage, deployment, and development environments.",
+        "zh-TW": "支援資料保存、部署與開發環境。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "0881097f-794e-4a2a-89e3-4292f11fac46",
+      "name": "Supabase",
+      "category": "Infrastructure",
+      "description": {
+        "en": "Supporting data storage, deployment, and development environments.",
+        "zh-TW": "支援資料保存、部署與開發環境。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "ab7e30ab-6ab9-4155-8544-3aa07cd61176",
+      "name": "Docker",
+      "category": "Infrastructure",
+      "description": {
+        "en": "Supporting data storage, deployment, and development environments.",
+        "zh-TW": "支援資料保存、部署與開發環境。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "30e95667-57b6-41cf-a25b-60c0fe08e4dd",
+      "name": "Linux",
+      "category": "Infrastructure",
+      "description": {
+        "en": "Supporting data storage, deployment, and development environments.",
+        "zh-TW": "支援資料保存、部署與開發環境。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "e04b617e-1aca-4f26-8743-73f595fa1b9e",
+      "name": "Git",
+      "category": "Infrastructure",
+      "description": {
+        "en": "Supporting data storage, deployment, and development environments.",
+        "zh-TW": "支援資料保存、部署與開發環境。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "9ddfbdc6-e336-4318-ac72-fc56a38ed41f",
+      "name": "AWS",
+      "category": "Infrastructure",
+      "description": {
+        "en": "Supporting data storage, deployment, and development environments.",
+        "zh-TW": "支援資料保存、部署與開發環境。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "7e64f348-01d7-4b92-a95c-8fcc57734516",
+      "name": "GCP",
+      "category": "Infrastructure",
+      "description": {
+        "en": "Supporting data storage, deployment, and development environments.",
+        "zh-TW": "支援資料保存、部署與開發環境。"
+      },
+      "sceneObjectName": null
+    },
+    {
+      "id": "8b020fc0-95e0-425c-9ce7-84a5dba96e37",
+      "name": "Azure",
+      "category": "Infrastructure",
+      "description": {
+        "en": "Supporting data storage, deployment, and development environments.",
+        "zh-TW": "支援資料保存、部署與開發環境。"
+      },
+      "sceneObjectName": null
+    }
+  ],
+  "experiences": [
+    {
+      "id": "b82e815d-ef2f-4061-8fe5-d25f44f2f588",
+      "title": {
+        "en": "AI Agent Intern",
+        "zh-TW": "AI Agent Intern"
+      },
+      "company": {
+        "en": "eCloudvalley Digital Technology",
+        "zh-TW": "伊雲谷數位科技"
+      },
+      "summary": {
+        "en": "Translate client requirements from natural language into executable workflows, leveraging LLMs to enhance the development, optimization, migration, and deployment of automated workflows.",
+        "zh-TW": "將客戶的需求從自然語言轉換成可執行的流程，旨在利用 LLM 完善 Automated Workflow 的開發、改進、移植與部署。"
+      },
+      "period": "2026/06 - 2026/10",
+      "highlights": [
+        {
+          "en": "Analyze client requirements to determine which tasks can be handled through traditional programming and which can achieve better results with LLM assistance. Organize and present the final outputs in clear, user-friendly formats such as Word documents, Excel spreadsheets, and Markdown files.",
+          "zh-TW": "根據客戶需求，判斷什麼內容可以用程式完成，什麼內容以 LLM 輔助可以搭到更好的效果，最後根據需求整理出易讀的結果。如：Word, Excel, Markdown等"
+        },
+        {
+          "en": "Deploy Dify on Azure and AWS virtual machines, migrate workflows developed by other teams, and optimize existing workflows to improve performance, maintainability, and usability.",
+          "zh-TW": "在 Azure, AWS 的虛擬機部署 Dify，並移植其他團隊的工作流與優化既有的工作流"
+        }
+      ],
+      "technologies": [
+        "n8n",
+        "Dify",
+        "AWS/Azure/GCP",
+        "LLM",
+        "API Integration",
+        "Docker"
+      ]
+    },
+    {
+      "id": "8bf6b7be-30af-4778-8832-8c0facd2a3c1",
+      "title": {
+        "en": "Freelance Developer",
+        "zh-TW": "自由接案開發者"
+      },
+      "company": {
+        "en": "Self-employed",
+        "zh-TW": "Self-employed"
+      },
+      "summary": {
+        "en": "Focused on clean, maintainable code and interfaces that users actually enjoy.",
+        "zh-TW": "專注於編寫簡潔、易於維護的程式碼，以及打造用戶真正喜歡的介面。"
+      },
+      "period": "2026/01 - ",
+      "highlights": [
+        {
+          "en": "Transform disorganized Excel spreadsheets into internal tools tailored to different client needs.",
+          "zh-TW": "將混亂的 Excel 轉化為針對不同客戶需求的內部工具"
+        },
+        {
+          "en": "Deliver customized platforms designed around each client’s workflows and requirements, such as internal management systems, personal websites, and e-commerce websites.",
+          "zh-TW": "交付按照客戶工作流程與需求量身定制的客製化平台。如：內部管理系統、個人網站、電商網站等"
+        },
+        {
+          "en": "Automate repetitive workflows to improve operational efficiency and reduce errors caused by manual processes.",
+          "zh-TW": "將可重複的工作流程自動化，從而提升了客戶的工作效率和減少了人為操作的錯誤"
+        }
+      ],
+      "technologies": [
+        "Python",
+        "Django",
+        "HTML/CSS/JavaScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Docker",
+        "AWS/Azure/GCP"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "21e05946-2153-45c7-81ae-35d86597e4d9",
+      "slug": "heart-mri",
+      "featured": true,
+      "title": {
+        "en": "Heart MRI Diagnostic Assistance",
+        "zh-TW": "心臟 MRI 輔助診斷系統"
+      },
+      "summary": {
+        "en": "Connecting image segmentation, regional mapping, and research tooling.",
+        "zh-TW": "從影像分割到區域映射，將研究中的技術成果串起來。"
+      },
+      "description": {
+        "en": "An ongoing university research project with implemented U-Net segmentation, clinical indicator calculation, and AHA regional mapping. RAG and LLM integration supplies information for report generation. The overall project remains in progress; clinical validation is not claimed.",
+        "zh-TW": "進行中的大學研究專題。已完成 U-Net 影像分割、臨床指標計算與 AHA 區域映射等技術工作，並整合 RAG／LLM 作為報告生成的資訊來源。整體專題仍在進行，尚未宣稱臨床驗證。"
+      },
+      "role": {
+        "en": "Team lead / AI and image-analysis developer",
+        "zh-TW": "組長／主要 AI 與影像分析開發者"
+      },
+      "period": "",
+      "githubUrl": null,
+      "demoUrl": null,
+      "tags": [
+        "AI / ML",
+        "Research"
+      ],
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "U-Net",
+        "RAG",
+        "LLM"
+      ],
+      "highlights": [
+        {
+          "en": "Segmentation Dice Score of approximately 0.92, as reported in the resume; not independently re-tested here.",
+          "zh-TW": "履歷記載分割 Dice Score 約 0.92；非本次獨立重測。"
+        },
+        {
+          "en": "AHA regional mapping and visualization linking MRI slices to regional representations.",
+          "zh-TW": "AHA 區域對應與視覺化，連接 MRI 切片與區域表示。"
+        }
+      ],
+      "cover": null,
+      "gallery": []
+    },
+    {
+      "id": "38974d4c-b764-447f-9689-c030b3573269",
+      "slug": "rag-platform",
+      "featured": true,
+      "title": {
+        "en": "RAG Q&A Platform",
+        "zh-TW": "RAG 知識問答平台"
+      },
+      "summary": {
+        "en": "Turning professional documents into searchable, source-aware knowledge.",
+        "zh-TW": "讓專業文件成為可以查詢、追溯來源的知識。"
+      },
+      "description": {
+        "en": "A Python and LLM API workflow for PDF ingestion, semantic chunking, vectorization, FAISS retrieval, and source-aware answers.",
+        "zh-TW": "以 Python 與 LLM API 建立 PDF 問答流程，涵蓋語義分塊、向量化、FAISS 檢索及知識來源展示。"
+      },
+      "role": null,
+      "period": "",
+      "githubUrl": null,
+      "demoUrl": null,
+      "tags": [
+        "AI / ML",
+        "Knowledge"
+      ],
+      "technologies": [
+        "Python",
+        "FAISS",
+        "RAG",
+        "LLM"
+      ],
+      "highlights": [
+        {
+          "en": "Processed an approximately 83.6 MB professional textbook, as reported in the resume.",
+          "zh-TW": "履歷記載處理約 83.6 MB 專業教材。"
+        },
+        {
+          "en": "Displayed sources alongside answers to support verification.",
+          "zh-TW": "回答搭配來源展示，協助使用者核對資訊。"
+        }
+      ],
+      "cover": null,
+      "gallery": []
+    },
+    {
+      "id": "e1770104-b4d9-4471-90b0-c8ec057a89be",
+      "slug": "aps-workflow",
+      "featured": false,
+      "title": {
+        "en": "Automated Factory APS Workflow",
+        "zh-TW": "自動化工廠排程工作流"
+      },
+      "summary": {
+        "en": "Describe constraints in natural language; execute scheduling in code.",
+        "zh-TW": "用自然語言描述條件，交由程式執行實際排程。"
+      },
+      "description": {
+        "en": "An internship workflow that extracts factory, order, and resource conditions into JSON, executes scheduling in scripts, then formats the results with an LLM. Only the general engineering workflow is presented here.",
+        "zh-TW": "實習期間開發的 AI Workflow：LLM 解析工廠、訂單與資源條件成 JSON，程式腳本負責排程，最後由 LLM 整理結果。此頁只呈現一般工程流程。"
+      },
+      "role": null,
+      "period": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "tags": [
+        "Automation",
+        "AI Workflow"
+      ],
+      "technologies": [
+        "Dify",
+        "LLM",
+        "Python",
+        "JSON"
+      ],
+      "highlights": [
+        {
+          "en": "Separated interpretation from scheduling execution for clear responsibilities.",
+          "zh-TW": "將條件理解與排程執行拆分，讓流程責任清楚。"
+        }
+      ],
+      "cover": {
+        "src": "/assets/content/ac2519ba-9374-45f2-9bf5-5ff0d84a89ae.webp",
+        "alt": {
+          "zh-TW": "自動化工廠排程工作流",
+          "en": "APS Workflow"
+        },
+        "source": ""
+      },
+      "gallery": [
+        {
+          "src": "/assets/content/ac2519ba-9374-45f2-9bf5-5ff0d84a89ae.webp",
+          "alt": {
+            "zh-TW": "自動化工廠排程工作流",
+            "en": "APS Workflow"
+          },
+          "source": ""
+        },
+        {
+          "src": "/assets/content/0f17eda3-3191-477a-bbdd-bd72fd3b86a7.webp",
+          "alt": {
+            "zh-TW": "自動化工廠排程輸出",
+            "en": "APS Workflow Output"
+          },
+          "source": ""
+        }
+      ]
+    },
+    {
+      "id": "946e109e-a18f-4662-9180-b1addc734dde",
+      "slug": "seo-analysis",
+      "featured": false,
+      "title": {
+        "en": "SEO Analysis Tool",
+        "zh-TW": "SEO 分析工具"
+      },
+      "summary": {
+        "en": "Connecting search results and data storage for website analysis.",
+        "zh-TW": "整合搜尋結果與資料保存，支援網站分析工作。"
+      },
+      "description": {
+        "en": "A web tool using SerpAPI for Google search results, Node.js-related web technologies, and Supabase for data storage. Vercel and GitHub are noted in the resume; a live URL has not been provided.",
+        "zh-TW": "使用 SerpAPI 取得 Google 搜尋結果，以 Node.js 相關網頁技術建置，並使用 Supabase 保存資料。履歷另記載 Vercel 與 GitHub；實際網址尚未提供。"
+      },
+      "role": null,
+      "period": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "tags": [
+        "Full Stack",
+        "Web"
+      ],
+      "technologies": [
+        "Node.js",
+        "SerpAPI",
+        "Supabase",
+        "Vercel"
+      ],
+      "highlights": [],
+      "cover": null,
+      "gallery": []
+    },
+    {
+      "id": "f232069d-6846-4968-a012-e09bcc019b69",
+      "slug": "purchasing-platform",
+      "featured": false,
+      "title": {
+        "en": "Purchasing & Inventory Platform",
+        "zh-TW": "採購・庫存・訂單平台"
+      },
+      "summary": {
+        "en": "A platform spanning inventory, orders, membership, and administration.",
+        "zh-TW": "涵蓋庫存、訂單、會員網站與管理介面的平台。"
+      },
+      "description": {
+        "en": "A portfolio entry covering inventory, orders, a membership website, and administrative interfaces. Architecture, personal responsibilities, and publishable results are pending; production status is not assumed.",
+        "zh-TW": "企劃中的作品項目，範圍包含庫存管理、訂單管理、會員網站及前後台。技術架構、個人責任與可公開成果待補，不推定正式上線狀態。"
+      },
+      "role": null,
+      "period": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "tags": [
+        "Full Stack",
+        "Operations"
+      ],
+      "technologies": [],
+      "highlights": [],
+      "cover": {
+        "src": "/assets/content/fa0cd0e7-08dd-439a-a8a8-8f227135ec51.webp",
+        "alt": {
+          "zh-TW": "首頁 Dashboard",
+          "en": "Dashboard - Home"
+        },
+        "source": ""
+      },
+      "gallery": []
+    },
+    {
+      "id": "b9f8d579-5982-404b-a5f7-d8bb3e19a0df",
+      "slug": "profile-site",
+      "featured": false,
+      "title": {
+        "en": "Personal Portfolio Website",
+        "zh-TW": "個人作品集網站"
+      },
+      "summary": {
+        "en": "A personal portfolio website featuring my work and contact information.\n",
+        "zh-TW": "放置個人作品集與聯絡資訊"
+      },
+      "description": {
+        "en": "A personal portfolio website featuring my work and contact information.",
+        "zh-TW": "放置個人作品集與聯絡資訊"
+      },
+      "role": null,
+      "period": "",
+      "githubUrl": "",
+      "demoUrl": "",
+      "tags": [],
+      "technologies": [],
+      "highlights": [],
+      "cover": null,
+      "gallery": []
+    },
+    {
+      "id": "77b2e654-2000-4b2d-9546-3cd70092c5c7",
+      "slug": "print-shop",
+      "featured": false,
+      "title": {
+        "en": "Chanlin Printing Corporate Website",
+        "zh-TW": "泉霖印刷形象網站"
+      },
+      "summary": {
+        "en": "A corporate website for a printing company.",
+        "zh-TW": "印刷公司的形象網站"
+      },
+      "description": {
+        "en": "This project focused on rebuilding the printing company’s official website and adding a backend management system. The admin panel allows the company to publish and manage website content on its own, as well as view website analytics and performance data.",
+        "zh-TW": "這專案主要是幫助印刷公司將其官網重新建置，並新增了後台的管理頁面讓商家可以自己新增網站的文章內容以及查看網站分析的資訊"
+      },
+      "role": null,
+      "period": "",
+      "githubUrl": "",
+      "demoUrl": "",
+      "tags": [],
+      "technologies": [],
+      "highlights": [],
+      "cover": {
+        "src": "/assets/content/27c11a5a-98ee-458a-8a41-65369dd1c438.webp",
+        "alt": {
+          "zh-TW": "",
+          "en": ""
+        },
+        "source": ""
+      },
+      "gallery": [
+        {
+          "src": "/assets/content/0fb86768-c355-41e2-aab3-4ec7dada0d54.webp",
+          "alt": {
+            "zh-TW": "",
+            "en": ""
+          },
+          "source": ""
+        },
+        {
+          "src": "/assets/content/ffc79055-1c88-4338-a803-34182a900c89.webp",
+          "alt": {
+            "zh-TW": "",
+            "en": ""
+          },
+          "source": ""
+        },
+        {
+          "src": "/assets/content/bae14a0d-70a7-4b09-8529-d266914f64e4.webp",
+          "alt": {
+            "zh-TW": "",
+            "en": ""
+          },
+          "source": ""
+        },
+        {
+          "src": "/assets/content/a4b7f2eb-ec22-40b7-bd7e-336cd47886f1.webp",
+          "alt": {
+            "zh-TW": "",
+            "en": ""
+          },
+          "source": ""
+        }
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "id": "ea560430-0e20-423f-b3a1-16980d224619",
+      "kind": "github",
+      "label": {
+        "en": "GitHub",
+        "zh-TW": "GitHub"
+      },
+      "value": "Lotus-030226",
+      "url": "https://github.com/Lotus-030226"
+    },
+    {
+      "id": "eb7b8282-54ae-4208-8216-acd0d74431f2",
+      "kind": "email",
+      "label": {
+        "en": "Email me",
+        "zh-TW": "寄信給我"
+      },
+      "value": "eason20040131@gmail.com",
+      "url": "mailto:eason20040131@gmail.com"
+    },
+    {
+      "id": "1bf2fe09-fa4a-42d5-a7b8-c1da158d89fd",
+      "kind": "line",
+      "label": {
+        "en": "LINE",
+        "zh-TW": "LINE"
+      },
+      "value": "lotus31014",
+      "url": null
+    }
+  ]
+}
