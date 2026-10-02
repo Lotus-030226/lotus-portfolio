@@ -1,0 +1,6 @@
+pnpm-lock.yaml
+.next
+out
+admin-ui/dist
+private
+src/content/generated/portfolio.json
