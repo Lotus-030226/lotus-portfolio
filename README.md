@@ -1,6 +1,6 @@
 # Lotus Portfolio & Studio
 
-Lotus 的中英雙語作品集與本機內容後台。公開頁採 Next.js 靜態匯出；後台是 React、Django API 與 PostgreSQL，尚未正式發布。
+Lotus 的中英雙語作品集與本機內容後台。[公開網站](https://lotus-030226.github.io/lotus-portfolio/)採 Next.js 靜態匯出；後台是 React、Django API 與 PostgreSQL，只在本機運作。
 
 ## 使用入口
 
