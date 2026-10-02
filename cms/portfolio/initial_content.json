@@ -1,0 +1,772 @@
+[
+  {
+    "kind": "site",
+    "slug": "site",
+    "is_visible": true,
+    "data": {
+      "displayName": "Lotus",
+      "roles": [
+        "AI Engineer",
+        "Full-Stack Developer"
+      ],
+      "intro": {
+        "zh-TW": "將 AI、工作流自動化與全端開發，整合成真正可落地的產品。",
+        "en": "Turning AI, workflow automation, and full-stack engineering into practical products."
+      },
+      "services": [
+        {
+          "zh-TW": "自動化工作流",
+          "en": "Workflow Automation"
+        },
+        {
+          "zh-TW": "檢索增強生成",
+          "en": "RAG Systems"
+        },
+        {
+          "zh-TW": "全端開發",
+          "en": "Full-Stack Development"
+        }
+      ],
+      "description": "AI Engineer and Full-Stack Developer specializing in workflow automation, RAG systems, and practical AI-powered applications.",
+      "sceneUrl": null
+    },
+    "sort_order": 0
+  },
+  {
+    "kind": "tech",
+    "slug": "python",
+    "is_visible": true,
+    "data": {
+      "name": "Python",
+      "category": "AI / ML",
+      "description": {
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。",
+        "en": "Tools for models, image analysis, and intelligent applications."
+      }
+    },
+    "sort_order": 1
+  },
+  {
+    "kind": "tech",
+    "slug": "pytorch",
+    "is_visible": true,
+    "data": {
+      "name": "PyTorch",
+      "category": "AI / ML",
+      "description": {
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。",
+        "en": "Tools for models, image analysis, and intelligent applications."
+      }
+    },
+    "sort_order": 2
+  },
+  {
+    "kind": "tech",
+    "slug": "tensorflow",
+    "is_visible": true,
+    "data": {
+      "name": "TensorFlow",
+      "category": "AI / ML",
+      "description": {
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。",
+        "en": "Tools for models, image analysis, and intelligent applications."
+      }
+    },
+    "sort_order": 3
+  },
+  {
+    "kind": "tech",
+    "slug": "deep-learning",
+    "is_visible": true,
+    "data": {
+      "name": "Deep Learning",
+      "category": "AI / ML",
+      "description": {
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。",
+        "en": "Tools for models, image analysis, and intelligent applications."
+      }
+    },
+    "sort_order": 4
+  },
+  {
+    "kind": "tech",
+    "slug": "computer-vision",
+    "is_visible": true,
+    "data": {
+      "name": "Computer Vision",
+      "category": "AI / ML",
+      "description": {
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。",
+        "en": "Tools for models, image analysis, and intelligent applications."
+      }
+    },
+    "sort_order": 5
+  },
+  {
+    "kind": "tech",
+    "slug": "u-net",
+    "is_visible": true,
+    "data": {
+      "name": "U-Net",
+      "category": "AI / ML",
+      "description": {
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。",
+        "en": "Tools for models, image analysis, and intelligent applications."
+      }
+    },
+    "sort_order": 6
+  },
+  {
+    "kind": "tech",
+    "slug": "llm",
+    "is_visible": true,
+    "data": {
+      "name": "LLM",
+      "category": "AI / ML",
+      "description": {
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。",
+        "en": "Tools for models, image analysis, and intelligent applications."
+      }
+    },
+    "sort_order": 7
+  },
+  {
+    "kind": "tech",
+    "slug": "rag",
+    "is_visible": true,
+    "data": {
+      "name": "RAG",
+      "category": "AI / ML",
+      "description": {
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。",
+        "en": "Tools for models, image analysis, and intelligent applications."
+      }
+    },
+    "sort_order": 8
+  },
+  {
+    "kind": "tech",
+    "slug": "faiss",
+    "is_visible": true,
+    "data": {
+      "name": "FAISS",
+      "category": "AI / ML",
+      "description": {
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。",
+        "en": "Tools for models, image analysis, and intelligent applications."
+      }
+    },
+    "sort_order": 9
+  },
+  {
+    "kind": "tech",
+    "slug": "prompt-engineering",
+    "is_visible": true,
+    "data": {
+      "name": "Prompt Engineering",
+      "category": "AI / ML",
+      "description": {
+        "zh-TW": "用於模型、影像分析與智慧應用的技術。",
+        "en": "Tools for models, image analysis, and intelligent applications."
+      }
+    },
+    "sort_order": 10
+  },
+  {
+    "kind": "tech",
+    "slug": "dify",
+    "is_visible": true,
+    "data": {
+      "name": "Dify",
+      "category": "Workflow",
+      "description": {
+        "zh-TW": "連接模型、服務與可執行工作流程。",
+        "en": "Connecting models, services, and executable workflows."
+      }
+    },
+    "sort_order": 11
+  },
+  {
+    "kind": "tech",
+    "slug": "n8n",
+    "is_visible": true,
+    "data": {
+      "name": "n8n",
+      "category": "Workflow",
+      "description": {
+        "zh-TW": "連接模型、服務與可執行工作流程。",
+        "en": "Connecting models, services, and executable workflows."
+      }
+    },
+    "sort_order": 12
+  },
+  {
+    "kind": "tech",
+    "slug": "api-integration",
+    "is_visible": true,
+    "data": {
+      "name": "API Integration",
+      "category": "Workflow",
+      "description": {
+        "zh-TW": "連接模型、服務與可執行工作流程。",
+        "en": "Connecting models, services, and executable workflows."
+      }
+    },
+    "sort_order": 13
+  },
+  {
+    "kind": "tech",
+    "slug": "typescript",
+    "is_visible": true,
+    "data": {
+      "name": "TypeScript",
+      "category": "Full Stack",
+      "description": {
+        "zh-TW": "從互動介面到應用服務的開發技術。",
+        "en": "Building interactive interfaces and application services."
+      }
+    },
+    "sort_order": 14
+  },
+  {
+    "kind": "tech",
+    "slug": "javascript",
+    "is_visible": true,
+    "data": {
+      "name": "JavaScript",
+      "category": "Full Stack",
+      "description": {
+        "zh-TW": "從互動介面到應用服務的開發技術。",
+        "en": "Building interactive interfaces and application services."
+      }
+    },
+    "sort_order": 15
+  },
+  {
+    "kind": "tech",
+    "slug": "react",
+    "is_visible": true,
+    "data": {
+      "name": "React",
+      "category": "Full Stack",
+      "description": {
+        "zh-TW": "從互動介面到應用服務的開發技術。",
+        "en": "Building interactive interfaces and application services."
+      }
+    },
+    "sort_order": 16
+  },
+  {
+    "kind": "tech",
+    "slug": "next-js",
+    "is_visible": true,
+    "data": {
+      "name": "Next.js",
+      "category": "Full Stack",
+      "description": {
+        "zh-TW": "從互動介面到應用服務的開發技術。",
+        "en": "Building interactive interfaces and application services."
+      }
+    },
+    "sort_order": 17
+  },
+  {
+    "kind": "tech",
+    "slug": "node-js",
+    "is_visible": true,
+    "data": {
+      "name": "Node.js",
+      "category": "Full Stack",
+      "description": {
+        "zh-TW": "從互動介面到應用服務的開發技術。",
+        "en": "Building interactive interfaces and application services."
+      }
+    },
+    "sort_order": 18
+  },
+  {
+    "kind": "tech",
+    "slug": "html",
+    "is_visible": true,
+    "data": {
+      "name": "HTML",
+      "category": "Full Stack",
+      "description": {
+        "zh-TW": "從互動介面到應用服務的開發技術。",
+        "en": "Building interactive interfaces and application services."
+      }
+    },
+    "sort_order": 19
+  },
+  {
+    "kind": "tech",
+    "slug": "css",
+    "is_visible": true,
+    "data": {
+      "name": "CSS",
+      "category": "Full Stack",
+      "description": {
+        "zh-TW": "從互動介面到應用服務的開發技術。",
+        "en": "Building interactive interfaces and application services."
+      }
+    },
+    "sort_order": 20
+  },
+  {
+    "kind": "tech",
+    "slug": "tailwind-css",
+    "is_visible": true,
+    "data": {
+      "name": "Tailwind CSS",
+      "category": "Full Stack",
+      "description": {
+        "zh-TW": "從互動介面到應用服務的開發技術。",
+        "en": "Building interactive interfaces and application services."
+      }
+    },
+    "sort_order": 21
+  },
+  {
+    "kind": "tech",
+    "slug": "postgresql",
+    "is_visible": true,
+    "data": {
+      "name": "PostgreSQL",
+      "category": "Infrastructure",
+      "description": {
+        "zh-TW": "支援資料保存、部署與開發環境。",
+        "en": "Supporting data storage, deployment, and development environments."
+      }
+    },
+    "sort_order": 22
+  },
+  {
+    "kind": "tech",
+    "slug": "mysql",
+    "is_visible": true,
+    "data": {
+      "name": "MySQL",
+      "category": "Infrastructure",
+      "description": {
+        "zh-TW": "支援資料保存、部署與開發環境。",
+        "en": "Supporting data storage, deployment, and development environments."
+      }
+    },
+    "sort_order": 23
+  },
+  {
+    "kind": "tech",
+    "slug": "supabase",
+    "is_visible": true,
+    "data": {
+      "name": "Supabase",
+      "category": "Infrastructure",
+      "description": {
+        "zh-TW": "支援資料保存、部署與開發環境。",
+        "en": "Supporting data storage, deployment, and development environments."
+      }
+    },
+    "sort_order": 24
+  },
+  {
+    "kind": "tech",
+    "slug": "docker",
+    "is_visible": true,
+    "data": {
+      "name": "Docker",
+      "category": "Infrastructure",
+      "description": {
+        "zh-TW": "支援資料保存、部署與開發環境。",
+        "en": "Supporting data storage, deployment, and development environments."
+      }
+    },
+    "sort_order": 25
+  },
+  {
+    "kind": "tech",
+    "slug": "linux",
+    "is_visible": true,
+    "data": {
+      "name": "Linux",
+      "category": "Infrastructure",
+      "description": {
+        "zh-TW": "支援資料保存、部署與開發環境。",
+        "en": "Supporting data storage, deployment, and development environments."
+      }
+    },
+    "sort_order": 26
+  },
+  {
+    "kind": "tech",
+    "slug": "git",
+    "is_visible": true,
+    "data": {
+      "name": "Git",
+      "category": "Infrastructure",
+      "description": {
+        "zh-TW": "支援資料保存、部署與開發環境。",
+        "en": "Supporting data storage, deployment, and development environments."
+      }
+    },
+    "sort_order": 27
+  },
+  {
+    "kind": "tech",
+    "slug": "aws",
+    "is_visible": true,
+    "data": {
+      "name": "AWS",
+      "category": "Infrastructure",
+      "description": {
+        "zh-TW": "支援資料保存、部署與開發環境。",
+        "en": "Supporting data storage, deployment, and development environments."
+      }
+    },
+    "sort_order": 28
+  },
+  {
+    "kind": "tech",
+    "slug": "gcp",
+    "is_visible": true,
+    "data": {
+      "name": "GCP",
+      "category": "Infrastructure",
+      "description": {
+        "zh-TW": "支援資料保存、部署與開發環境。",
+        "en": "Supporting data storage, deployment, and development environments."
+      }
+    },
+    "sort_order": 29
+  },
+  {
+    "kind": "tech",
+    "slug": "azure",
+    "is_visible": true,
+    "data": {
+      "name": "Azure",
+      "category": "Infrastructure",
+      "description": {
+        "zh-TW": "支援資料保存、部署與開發環境。",
+        "en": "Supporting data storage, deployment, and development environments."
+      }
+    },
+    "sort_order": 30
+  },
+  {
+    "kind": "experience",
+    "slug": "ecloudvalley",
+    "is_visible": true,
+    "data": {
+      "title": {
+        "zh-TW": "AI 工程師實習生",
+        "en": "AI Engineer Intern"
+      },
+      "company": {
+        "zh-TW": "伊雲谷數位科技",
+        "en": "eCloudvalley Digital Technology"
+      },
+      "period": "2026/06 —",
+      "summary": {
+        "zh-TW": "參與 AI Workflow 的部署、移植與開發，將自然語言需求轉成可執行的流程。",
+        "en": "Developing and adapting AI workflows, translating natural-language requirements into executable processes."
+      },
+      "highlights": [
+        {
+          "zh-TW": "在 Azure 虛擬機部署 Dify，移植與調整既有工作流。",
+          "en": "Deployed Dify on Azure VMs and migrated existing workflows."
+        },
+        {
+          "zh-TW": "以 LLM 擷取結構化條件，由程式執行排程，再整理使用者可讀的結果。",
+          "en": "Used LLMs to extract structured conditions, execute scheduling in code, and present readable results."
+        }
+      ],
+      "technologies": [
+        "Dify",
+        "Azure",
+        "LLM",
+        "API Integration"
+      ]
+    },
+    "sort_order": 31
+  },
+  {
+    "kind": "experience",
+    "slug": "freelance",
+    "is_visible": false,
+    "data": {
+      "title": {
+        "zh-TW": "自由接案開發者",
+        "en": "Freelance Developer"
+      },
+      "company": {
+        "zh-TW": "",
+        "en": ""
+      },
+      "summary": {
+        "zh-TW": "",
+        "en": ""
+      },
+      "period": null,
+      "highlights": [],
+      "technologies": []
+    },
+    "sort_order": 32
+  },
+  {
+    "kind": "project",
+    "slug": "heart-mri",
+    "is_visible": true,
+    "featured": true,
+    "data": {
+      "title": {
+        "zh-TW": "心臟 MRI 輔助診斷系統",
+        "en": "Heart MRI Diagnostic Assistance"
+      },
+      "summary": {
+        "zh-TW": "從影像分割到區域映射，將研究中的技術成果串起來。",
+        "en": "Connecting image segmentation, regional mapping, and research tooling."
+      },
+      "description": {
+        "zh-TW": "進行中的大學研究專題。已完成 U-Net 影像分割、臨床指標計算與 AHA 區域映射等技術工作，並整合 RAG／LLM 作為報告生成的資訊來源。整體專題仍在進行，尚未宣稱臨床驗證。",
+        "en": "An ongoing university research project with implemented U-Net segmentation, clinical indicator calculation, and AHA regional mapping. RAG and LLM integration supplies information for report generation. The overall project remains in progress; clinical validation is not claimed."
+      },
+      "tags": [
+        "AI / ML",
+        "Research"
+      ],
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "U-Net",
+        "RAG",
+        "LLM"
+      ],
+      "highlights": [
+        {
+          "zh-TW": "履歷記載分割 Dice Score 約 0.92；非本次獨立重測。",
+          "en": "Segmentation Dice Score of approximately 0.92, as reported in the resume; not independently re-tested here."
+        },
+        {
+          "zh-TW": "AHA 區域對應與視覺化，連接 MRI 切片與區域表示。",
+          "en": "AHA regional mapping and visualization linking MRI slices to regional representations."
+        }
+      ],
+      "role": {
+        "zh-TW": "組長／主要 AI 與影像分析開發者",
+        "en": "Team lead / AI and image-analysis developer"
+      },
+      "period": "2026/02 —",
+      "githubUrl": null,
+      "demoUrl": null,
+      "coverAssetId": null,
+      "galleryAssetIds": []
+    },
+    "sort_order": 33
+  },
+  {
+    "kind": "project",
+    "slug": "rag-platform",
+    "is_visible": true,
+    "featured": true,
+    "data": {
+      "title": {
+        "zh-TW": "RAG 知識問答平台",
+        "en": "RAG Q&A Platform"
+      },
+      "summary": {
+        "zh-TW": "讓專業文件成為可以查詢、追溯來源的知識。",
+        "en": "Turning professional documents into searchable, source-aware knowledge."
+      },
+      "description": {
+        "zh-TW": "以 Python 與 LLM API 建立 PDF 問答流程，涵蓋語義分塊、向量化、FAISS 檢索及知識來源展示。",
+        "en": "A Python and LLM API workflow for PDF ingestion, semantic chunking, vectorization, FAISS retrieval, and source-aware answers."
+      },
+      "tags": [
+        "AI / ML",
+        "Knowledge"
+      ],
+      "technologies": [
+        "Python",
+        "FAISS",
+        "RAG",
+        "LLM"
+      ],
+      "highlights": [
+        {
+          "zh-TW": "履歷記載處理約 83.6 MB 專業教材。",
+          "en": "Processed an approximately 83.6 MB professional textbook, as reported in the resume."
+        },
+        {
+          "zh-TW": "回答搭配來源展示，協助使用者核對資訊。",
+          "en": "Displayed sources alongside answers to support verification."
+        }
+      ],
+      "role": null,
+      "period": "2026/03",
+      "githubUrl": null,
+      "demoUrl": null,
+      "coverAssetId": null,
+      "galleryAssetIds": []
+    },
+    "sort_order": 34
+  },
+  {
+    "kind": "project",
+    "slug": "aps-workflow",
+    "is_visible": true,
+    "featured": false,
+    "data": {
+      "title": {
+        "zh-TW": "自動化工廠排程工作流",
+        "en": "Automated Factory APS Workflow"
+      },
+      "summary": {
+        "zh-TW": "用自然語言描述條件，交由程式執行實際排程。",
+        "en": "Describe constraints in natural language; execute scheduling in code."
+      },
+      "description": {
+        "zh-TW": "實習期間開發的 AI Workflow：LLM 解析工廠、訂單與資源條件成 JSON，程式腳本負責排程，最後由 LLM 整理結果。此頁只呈現一般工程流程。",
+        "en": "An internship workflow that extracts factory, order, and resource conditions into JSON, executes scheduling in scripts, then formats the results with an LLM. Only the general engineering workflow is presented here."
+      },
+      "tags": [
+        "Automation",
+        "AI Workflow"
+      ],
+      "technologies": [
+        "Dify",
+        "LLM",
+        "Python",
+        "JSON"
+      ],
+      "highlights": [
+        {
+          "zh-TW": "將條件理解與排程執行拆分，讓流程責任清楚。",
+          "en": "Separated interpretation from scheduling execution for clear responsibilities."
+        }
+      ],
+      "role": null,
+      "period": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "coverAssetId": null,
+      "galleryAssetIds": []
+    },
+    "sort_order": 35
+  },
+  {
+    "kind": "project",
+    "slug": "seo-analysis",
+    "is_visible": true,
+    "featured": false,
+    "data": {
+      "title": {
+        "zh-TW": "SEO 分析工具",
+        "en": "SEO Analysis Tool"
+      },
+      "summary": {
+        "zh-TW": "整合搜尋結果與資料保存，支援網站分析工作。",
+        "en": "Connecting search results and data storage for website analysis."
+      },
+      "description": {
+        "zh-TW": "使用 SerpAPI 取得 Google 搜尋結果，以 Node.js 相關網頁技術建置，並使用 Supabase 保存資料。履歷另記載 Vercel 與 GitHub；實際網址尚未提供。",
+        "en": "A web tool using SerpAPI for Google search results, Node.js-related web technologies, and Supabase for data storage. Vercel and GitHub are noted in the resume; a live URL has not been provided."
+      },
+      "tags": [
+        "Full Stack",
+        "Web"
+      ],
+      "technologies": [
+        "Node.js",
+        "SerpAPI",
+        "Supabase",
+        "Vercel"
+      ],
+      "highlights": [],
+      "role": null,
+      "period": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "coverAssetId": null,
+      "galleryAssetIds": []
+    },
+    "sort_order": 36
+  },
+  {
+    "kind": "project",
+    "slug": "purchasing-platform",
+    "is_visible": true,
+    "featured": false,
+    "data": {
+      "title": {
+        "zh-TW": "採購・庫存・訂單平台",
+        "en": "Purchasing & Inventory Platform"
+      },
+      "summary": {
+        "zh-TW": "涵蓋庫存、訂單、會員網站與管理介面的平台。",
+        "en": "A platform spanning inventory, orders, membership, and administration."
+      },
+      "description": {
+        "zh-TW": "企劃中的作品項目，範圍包含庫存管理、訂單管理、會員網站及前後台。技術架構、個人責任與可公開成果待補，不推定正式上線狀態。",
+        "en": "A portfolio entry covering inventory, orders, a membership website, and administrative interfaces. Architecture, personal responsibilities, and publishable results are pending; production status is not assumed."
+      },
+      "tags": [
+        "Full Stack",
+        "Operations"
+      ],
+      "technologies": [],
+      "highlights": [],
+      "role": null,
+      "period": null,
+      "githubUrl": null,
+      "demoUrl": null,
+      "coverAssetId": null,
+      "galleryAssetIds": []
+    },
+    "sort_order": 37
+  },
+  {
+    "kind": "contact",
+    "slug": "email",
+    "is_visible": true,
+    "data": {
+      "kind": "email",
+      "label": {
+        "zh-TW": "寄信給我",
+        "en": "Email me"
+      },
+      "value": "eason20040131@gmail.com",
+      "url": "mailto:eason20040131@gmail.com"
+    },
+    "sort_order": 38
+  },
+  {
+    "kind": "contact",
+    "slug": "github",
+    "is_visible": true,
+    "data": {
+      "kind": "github",
+      "label": {
+        "zh-TW": "GitHub",
+        "en": "GitHub"
+      },
+      "value": "Lotus-030226",
+      "url": "https://github.com/Lotus-030226"
+    },
+    "sort_order": 39
+  },
+  {
+    "kind": "contact",
+    "slug": "line",
+    "is_visible": true,
+    "data": {
+      "kind": "line",
+      "label": {
+        "zh-TW": "LINE 聯絡",
+        "en": "LINE"
+      },
+      "value": "lotus31014",
+      "url": null
+    },
+    "sort_order": 40
+  }
+]
